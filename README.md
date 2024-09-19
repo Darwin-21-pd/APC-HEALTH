@@ -13,8 +13,7 @@
             </td>
         </tr>
         <tr>
-            <td>
-                <td align="center">
+            <td aling="center">
                 <h1><b>Trabajo Final - APC-HEALTH </b></h1>
             </td>
         </tr>
@@ -35,6 +34,9 @@
 <img alt="NC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/sa.xlarge.png" align="left" hspace="0px" vspace="0px">
 <img alt="SA" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/cc-icons.png" align="left" hspace="0px" vspace="0px">
 </p>
+
+
+<br>
 
 <div align="right">
 <h2> <b> Por: Darwin Julian Pineda David. </b> </h2>

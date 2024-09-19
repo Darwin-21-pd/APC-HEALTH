@@ -14,6 +14,7 @@
         </tr>
         <tr>
             <td>
+                <td align="center">
                 <h1><b>Trabajo Final - APC-HEALTH </b></h1>
             </td>
         </tr>

@@ -128,7 +128,7 @@ Todos los integrantes deben registrar el programa al cual pertenece, una descrip
 
 # **3. Nombre del proyecto y detalles**
 
-# ***APC-HEALTH***
+ ***APC-HEALTH***
 ![](https://raw.githubusercontent.com/Darwin-21-pd/APC-HEALTH/refs/heads/main/images/1.png)
 
 

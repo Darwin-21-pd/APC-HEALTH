@@ -129,7 +129,7 @@ Todos los integrantes deben registrar el programa al cual pertenece, una descrip
 # **3. Nombre del proyecto y detalles**
 
 # ***APC-HEALTH***
-![](https://raw.githubusercontent.com/Darwin-21-pd/APC-HEALTH/refs/heads/main/images/programaci%C3%B3n.jpg)
+![](https://raw.githubusercontent.com/Darwin-21-pd/APC-HEALTH/refs/heads/main/images/1.png)
 
 
 APC-HEALTH Es un proyecto que busca implementar por medio de algoritmos un programa especialmente diseñado para el desarrollo eficiente y eficaz en la asignación de turnos, citas y validación de infomación en el área de la salud. 

@@ -146,6 +146,29 @@ Definir la licencia con la cual registra el software. https://chooser-beta.creat
 
 Proporciona una descripción general del software, sus objetivos y beneficios.
 
+Se desarrolla un programa sistemático por medio de logaritmos, fácil de entender y comprender, en donde nos permita visualizar y gestionar la atención de los pacientes, el registro de sus datos y una mayor agilidad en el proceso; todo esto en pro de brindar solución al problema planteado.
+
+
+**OBJETIVOS DEL SOFTWARE**
+
+
+
+1. Brindar datos acerca de Día, Hora, Cita e información del paciente de una manera más ágil y ordenada.
+2. Registro de datos, verificación de pacientes y control de citas
+3. Permite un análisis masivo de datos para identificar patrones en los horarios de la población y su información.
+4. Facilita el acceso a la información clínica del paciente, brindandole seguridad en sus datos.
+
+
+**BENEFICIOS DEL SOFTWARE**
+
+
+
+1. Proporciona un orden a la base de datos de la EPS.
+2. Garantiza una entrega de información más rápida y una atención más personalizada.
+3. Es fácil de utilizar por parte de los pacientes y el trabajador.
+4. Mejora la precisión y reducción de errores.
+5. Mejora el seguimiento y monitoreo, teniendo la información de los pacientes en la base de datos.
+
 
 ## **6.	Especificación de requisitos**
 

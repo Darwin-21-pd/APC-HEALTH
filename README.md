@@ -3,7 +3,7 @@
     <thead>
         <tr>
             <td rowspan="3">
-                <img alt="UdeA" height="200px" src="https://raw.githubusercontent.com/Darwin-21-pd/APC-HEALTH/refs/heads/main/images/1.png" hspace="10px" vspace="0px">
+                <img alt="UdeA" height="200px" src="https://raw.githubusercontent.com/Darwin-21-pd/APC-HEALTH/refs/heads/main/images/1%20port.png" hspace="10px" vspace="0px">
             </td>
             <td align="center">
                 <h1><b>Programación y Algoritmia</b></h1>

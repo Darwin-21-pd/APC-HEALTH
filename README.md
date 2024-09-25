@@ -142,7 +142,7 @@ APC-HEALTH Es un proyecto que busca implementar por medio de algoritmos un progr
 ## **5.	Reporte de visión**
 
 
-Se desarrolla un programa sistemático por medio de logaritmos, fácil de entender y comprender, en donde nos permita visualizar y gestionar la atención de los pacientes, el registro de sus datos y una mayor agilidad en el proceso; todo esto en pro de brindar solución al problema planteado.
+Se desarrolla un programa sistemático por medio de algoritmos, fácil de entender y comprender, en donde nos permita visualizar y gestionar la atención de los pacientes, el registro de sus datos y una mayor agilidad en el proceso; todo esto en pro de brindar solución al problema planteado.
 
 
 **OBJETIVOS DEL SOFTWARE**

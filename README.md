@@ -168,9 +168,7 @@ Se desarrolla un programa sistemático por medio de algoritmos, fácil de entend
 
 ## **6.	Especificación de requisitos**
 
-Describe los requisitos funcionales y no funcionales del software.
-*   Los requisitos funcionales definen las acciones específicas, comportamientos, y operaciones que el software debe ejecutar para satisfacer las necesidades del usuario final.
-*   Los requisitos no funcionales especifican criterios que pueden usarse para juzgar la operación del sistema, más allá de los comportamientos específicos. Esto incluye aspectos como el rendimiento, seguridad, usabilidad, fiabilidad, y compatibilidad.
+
 
 
 ## **7.	Plan de proyecto**
@@ -188,7 +186,7 @@ ACTIVIDADES
 
 PRESUPUESTO DEL PROYECTO 
 
-El proyecto se empezo desde 12-08-2024 con una fecha estimada de fin para el 24-11-2024, se dispone de 3 horas a la semana para avanzar en el proyecto involucrando la parte conceptual y la parte practica, por ende se tienen 15 semanas desde la fecha de inicio hasta la fecha de final, por lo tanto el total de horas hechas durante el proyecto seran de 45 horas invertidas.
+El proyecto se empezo desde 12-08-2024 con una fecha estimada de fin para el 24-11-2024, se dispone de 3 horas a la semana para avanzar en el proyecto involucrando la parte conceptual y la parte practica, por ende se tienen 15 semanas desde la fecha de inicio hasta la fecha de final, y por lo tanto el total de horas hechas durante el proyecto seran de 45 horas invertidas.
 
 ![](https://raw.githubusercontent.com/Darwin-21-pd/APC-HEALTH/refs/heads/main/images/Cronograma.png)
 

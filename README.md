@@ -175,8 +175,20 @@ Describe los requisitos funcionales y no funcionales del software.
 
 ## **7.	Plan de proyecto**
 
-Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del proyecto.
-*   El presupuesto debe tener en cuenta que no se pagará en dinero sino en tiempo de práctica de formación. Es decir, si el grupo del trabajo final lo componen tres estudiantes e invierten un total de 50 horas, estas serán pagadas a valor de práctica profesional. 1 SMLV.
+ACTIVIDADES
+
+1. Creación de Actas para la primera entrega del proyecto.
+2. Descarga de las aplicaciones (Visual estudio, Spider, Phyton) y creacion de cuenta en GitHub.
+3. Desarrollo de la primera entrega final del proyecto (punto 1 al punto 7).
+4. Verionado del SOFTWARE, pendiente a cambios en nuestro algoritmo.
+5. Algoritmo.
+6. Creación de carpetas en GitHub.
+7. Desarrollo de codigo con base a las herramientas dadas en clase.
+8. Desarrollo del Manual Usuario.
+
+PRESUPUESTO DEL PROYECTO 
+
+El proyecto se empezo desde 12-08-2024 con una fecha estimada de fin para el 24-11-2024, se dispone de 3 horas a la semana para avanzar en el proyecto involucrando la parte conceptual y la parte practica, por ende se tienen 15 semanas desde la fecha de inicio hasta la fecha de final, por lo tanto el total de horas hechas durante el proyecto seran de 45 horas invertidas.
 
 ![](https://raw.githubusercontent.com/Darwin-21-pd/APC-HEALTH/refs/heads/main/images/Cronograma.png)
 

@@ -168,6 +168,26 @@ Se desarrolla un programa sistemático por medio de algoritmos, fácil de entend
 
 ## **6.	Especificación de requisitos**
 
+REQUISITOS FUNCIONALES
+
+1. Creacción de un usuario: Los usuarios deben proporcionando su nombre, correo electrónico y contraseña.
+2. Asignación de citas al usuario con fecha y hora.
+3. Cancelación de citas.
+4. Tener internet: Es necesario para la realización de las actividades.
+5. Crear cuenta de GitHub: Es el programa donde se registran las actividades.
+6. Generación de reportes: El software debe permitir a los administradores generar reportes de lo que se hace.
+7. Alertas automáticas: El sistema debe enviar recordatorios por correo electrónico a los usuarios cuando se acerque una fecha importante.
+
+REQUISITOS NO FUNCIONALES
+
+1. Rendimiento: El sistema debe ser capaz de procesar todo lo que se necesite.
+2. Escalabilidad: El software debe poder manejar los datos requeridos por el sistema.
+3. Disponibilidad: El sistema debe estar disponible la mayoría de tiempo
+4. Usabilidad: El software debe ser fácil de usar.
+5. Seguridad: Los datos de los usuarios deben estar protegidos.
+6. Mantenimiento: El software debe de ser fácil de modificar o corregir.
+7. Compatibilidad: El software debe funcionar en múltiples plataformas.
+8. Garantizar: El sistema debe de funcionar correctamente en cualquier momento.
 
 
 
@@ -178,7 +198,7 @@ ACTIVIDADES
 1. Creación de Actas para la primera entrega del proyecto.
 2. Descarga de las aplicaciones (Visual estudio, Spider, Phyton) y creacion de cuenta en GitHub.
 3. Desarrollo de la primera entrega final del proyecto (punto 1 al punto 7).
-4. Verionado del SOFTWARE, pendiente a cambios en nuestro algoritmo.
+4. Versionado del SOFTWARE, pendiente a cambios en nuestro algoritmo.
 5. Algoritmo.
 6. Creación de carpetas en GitHub.
 7. Desarrollo de codigo con base a las herramientas dadas en clase.
@@ -186,7 +206,7 @@ ACTIVIDADES
 
 PRESUPUESTO DEL PROYECTO 
 
-El proyecto se empezo desde 12-08-2024 con una fecha estimada de fin para el 24-11-2024, se dispone de 3 horas a la semana para avanzar en el proyecto involucrando la parte conceptual y la parte practica, por ende se tienen 15 semanas desde la fecha de inicio hasta la fecha de final, y por lo tanto el total de horas hechas durante el proyecto seran de 45 horas invertidas.
+El proyecto se empezó desde 12-08-2024 con una fecha estimada de fin para el 24-11-2024, se dispone de 3 horas a la semana para avanzar en el proyecto involucrando la parte conceptual y la parte práctica; por ende se tienen 15 semanas desde la fecha de inicio hasta la fecha de final, por lo tanto, el total de horas hechas durante el proyecto serán de 45 horas invertidas.
 
 ![](https://raw.githubusercontent.com/Darwin-21-pd/APC-HEALTH/refs/heads/main/images/Cronograma.png)
 

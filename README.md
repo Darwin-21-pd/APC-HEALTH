@@ -168,7 +168,7 @@ Se desarrolla un programa sistemático por medio de algoritmos, fácil de entend
 
 ## **6.	Especificación de requisitos**
 
-REQUISITOS FUNCIONALES
+**REQUISITOS FUNCIONALES**
 
 1. Creacción de un usuario: Los usuarios deben proporcionando su nombre, correo electrónico y contraseña.
 2. Asignación de citas al usuario con fecha y hora.
@@ -178,7 +178,7 @@ REQUISITOS FUNCIONALES
 6. Generación de reportes: El software debe permitir a los administradores generar reportes de lo que se hace.
 7. Alertas automáticas: El sistema debe enviar recordatorios por correo electrónico a los usuarios cuando se acerque una fecha importante.
 
-REQUISITOS NO FUNCIONALES
+**REQUISITOS NO FUNCIONALES**
 
 1. Rendimiento: El sistema debe ser capaz de procesar todo lo que se necesite.
 2. Escalabilidad: El software debe poder manejar los datos requeridos por el sistema.
@@ -193,7 +193,7 @@ REQUISITOS NO FUNCIONALES
 
 ## **7.	Plan de proyecto**
 
-ACTIVIDADES
+**ACTIVIDADES**
 
 1. Creación de Actas para la primera entrega del proyecto.
 2. Descarga de las aplicaciones (Visual estudio, Spider, Phyton) y creacion de cuenta en GitHub.
@@ -204,7 +204,7 @@ ACTIVIDADES
 7. Desarrollo de codigo con base a las herramientas dadas en clase.
 8. Desarrollo del Manual Usuario.
 
-PRESUPUESTO DEL PROYECTO 
+**PRESUPUESTO DEL PROYECTO** 
 
 El proyecto se empezó desde 12-08-2024 con una fecha estimada de fin para el 24-11-2024, se dispone de 3 horas a la semana para avanzar en el proyecto involucrando la parte conceptual y la parte práctica; por ende se tienen 15 semanas desde la fecha de inicio hasta la fecha de final, por lo tanto, el total de horas hechas durante el proyecto serán de 45 horas invertidas.
 

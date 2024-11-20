@@ -206,7 +206,7 @@ Se desarrolla un programa sistemático por medio de algoritmos, fácil de entend
 
 **PRESUPUESTO DEL PROYECTO** 
 
-El proyecto se empezó desde 12-08-2024 con una fecha estimada de fin para el 24-11-2024, se dispone de 3 horas a la semana para avanzar en el proyecto involucrando la parte conceptual y la parte práctica; por ende se tienen 15 semanas desde la fecha de inicio hasta la fecha de final, por lo tanto, el total de horas hechas durante el proyecto serán de 45 horas invertidas.
+El proyecto se empezó desde 12-08-2024 con una fecha estimada de fin para el 24-11-2024, se dispone de 3 horas a la semana para avanzar en el proyecto involucrando la parte conceptual y la parte práctica; por ende se tienen 15 semanas desde la fecha de inicio hasta la fecha de final, por lo tanto, el total de horas hechas durante el proyecto serán de 45 horas invertidas; Se tiene un Total presupuestado para el proyecto por valor de $248.895 por participante.
 
 ![](https://raw.githubusercontent.com/Darwin-21-pd/APC-HEALTH/refs/heads/main/images/Cronograma.png)
 

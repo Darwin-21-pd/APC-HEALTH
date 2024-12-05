@@ -225,9 +225,11 @@ VERSIONADO DEL SOFTWARE
 
 ## **9.	Algoritmo**
 
-Se carga documento con el Algoritmo en la Carpeta src
+Se carga documento de colab con el Algoritmo en la Carpeta src
 
+## **10.	Manual de usuario**
 
+Se carga documento de colab con el Manual de usuario en la carpeta src
 
 
   

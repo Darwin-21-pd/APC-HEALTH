@@ -210,11 +210,22 @@ El proyecto se empezó desde 12-08-2024 con una fecha estimada de fin para el 24
 
 ![](https://raw.githubusercontent.com/Darwin-21-pd/APC-HEALTH/refs/heads/main/images/Cronograma.png)
 
+## **8.	Versionado del software**
+
+VERSIONADO DEL SOFTWARE
+
+1.1.3
+
+1 La primera versión principal del SOFTWARE (desarrollo del menú y código fuente).
+
+1 Se realizó una serie de actualizaciones a la versión principal para un mayor análisis del código, añadiendo nuevas características y corrigiendo pequeños errores, las cuales fueron de la línea 51 a la 116. Ajustamos el código fuente a cada caso expresado, siendo así más fácil el análisis y más efectivo al momento de correrlo.
+
+3 Se han aplicado 3 correcciones leves desde la última actualización del código; estas correcciones fueron: forma de ver el código al momento de correrlo, ajuste en las líneas del código y adición de separadores.
 
 
 ## **9.	Algoritmo**
 
-Se carga documento con el Algoritmo en la Carpeta TRABAJO FINAL
+Se carga documento con el Algoritmo en la Carpeta src
 
 
 
